@@ -19,4 +19,5 @@ Hello, guys! MAKS here. Welcome to my YouTube channel, MAKS The Coder. In this v
 
 ## 𝐋𝐢𝐧𝐤𝐬:  
 🌐 Play the Game: [SnakeFruitGame](https://snake-fruit-game-maks-void-web-dev.netlify.app/)
-📂 Source Code: [Your GitHub Repository URL]  
+
+📂 Source Code: [GitHub URL](https://github.com/28032001MRITUNJAYATISHLIPUN28032001/Snake-Fruit-Game-ASMR.git)
