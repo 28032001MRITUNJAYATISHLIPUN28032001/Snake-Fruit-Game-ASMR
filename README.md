@@ -18,5 +18,5 @@ Hello, guys! MAKS here. Welcome to my YouTube channel, MAKS The Coder. In this v
 𝐃𝐨𝐧’𝐭 𝐟𝐨𝐫𝐠𝐞𝐭 𝐭𝐨 𝐋𝐈𝐊𝐄, 𝐒𝐇𝐀𝐑𝐄, 𝐚𝐧𝐝 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐜𝐨𝐝𝐢𝐧𝐠 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬 𝐚𝐧𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬!  
 
 ## 𝐋𝐢𝐧𝐤𝐬:  
-🌐 Play the Game: [https://snake-fruit-game-maks-void-web-dev.netlify.app/](SnakeFruitGame)
+🌐 Play the Game: [SnakeFruitGame](https://snake-fruit-game-maks-void-web-dev.netlify.app/)
 📂 Source Code: [Your GitHub Repository URL]  
