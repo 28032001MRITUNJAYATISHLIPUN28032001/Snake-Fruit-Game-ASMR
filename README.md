@@ -1,5 +1,7 @@
 Hello, guys! MAKS here. Welcome to my YouTube channel, MAKS The Coder. In this video, I’ll show you how I built a fully responsive Snake Fruit Game using `HTML5`, `CSS3`, and `JavaScript ES6`. The game works seamlessly across devices, including mobile phones, tablets, laptops, and desktops. Watch the entire development process, from coding the game to deploying it on Netlify!  
 
+YouTube Link: [Click Here](https://www.youtube.com/@MAKSTheCoder)
+
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐆𝐚𝐦𝐞:  
 ✅ Created with semantic `HTML` elements for better `SEO` and accessibility.  
 ✅ Designed using `CSS` `Flexbox`, `media queries`, and `position properties` for a responsive layout.  
